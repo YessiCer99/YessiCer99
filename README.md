@@ -1,4 +1,4 @@
-##¡Hola! Soy Yessica Cerrito 
+## ¡Hola! Soy Yessica Cerrito 
 
 **QA Engineer | Explorador del desarrollo de software**  
 
