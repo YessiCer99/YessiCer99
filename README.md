@@ -23,9 +23,9 @@ Este espacio es donde comparto mis proyectos, prácticas y experimentos en **QA 
 
 Aquí puedes encontrar algunos de los **reportes de errores** que he realizado en mis proyectos académicos:  
 
-📌 **Ejemplo 1:** [Reporte de Bug - Urban Grocers API](https://drive.google.com/file/d/1a3wkANtZTbnt50L5Ml4eJMxWQhdY0CSq/view?usp=drive_link)  
-📌 **Ejemplo 2:** [Reporte de Bug - UI Web Urban Scooter](https://drive.google.com/file/d/1ka3fxKw5c0S3xV5i9f_6ObeWMlvyumg3/view?usp=drive_link)  
-📌 **Ejemplo 3:** [Reporte de Bug - App Móvil](https://drive.google.com/file/d/1VMjHoHpr-naOtWOmnB-873D1pVI77pjg/view?usp=drive_link)  
+📌 [Reporte de Bug - Urban Grocers API](https://drive.google.com/file/d/1a3wkANtZTbnt50L5Ml4eJMxWQhdY0CSq/view?usp=drive_link)  
+📌 [Reporte de Bug - UI Web Urban Scooter](https://drive.google.com/file/d/1ka3fxKw5c0S3xV5i9f_6ObeWMlvyumg3/view?usp=drive_link)  
+📌 [Reporte de Bug - App Móvil](https://drive.google.com/file/d/1VMjHoHpr-naOtWOmnB-873D1pVI77pjg/view?usp=drive_link)  
 
 ## Contáctame
 Si te interesa compartir conocimientos o trabajar juntos en algo genial, puedes encontrarme en LinkedIn o dejarme un mensaje por Gmail. ¡Nos leemos pronto! 😊 
