@@ -20,4 +20,6 @@ Este espacio es donde comparto mis proyectos, prácticas y experimentos en **QA 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Contáctame
-Si te interesa compartir conocimientos o trabajar juntos en algo genial, puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yessica-cerrito) o dejarme un mensaje por aquí. ¡Nos leemos pronto! 😊[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yessi.prez123@gmail.com)
+Si te interesa compartir conocimientos o trabajar juntos en algo genial, puedes encontrarme en LinkedIn o dejarme un mensaje por Gmail. ¡Nos leemos pronto! 😊 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yessica-cerrito) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yessi.prez123@gmail.com)
